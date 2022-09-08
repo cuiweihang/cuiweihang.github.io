@@ -1,3 +1,6 @@
 # cuiweihang.github.io
-my name is cuiweihang
-xuehao： 3210432086
+姓名： 崔伟航
+学号： 3210432086
+性别： 男
+学院:  信息学院
+专业年级： 电子信息工程213
